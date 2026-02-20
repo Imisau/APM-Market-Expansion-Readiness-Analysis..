@@ -15,7 +15,7 @@ The analysis utilized a dataset of 10,000 market-payment combinations across 8 c
 
 Markets were evaluated based on a weighted composite of:
 
- 	 o	Market Infrastructure: Digital Penetration ($67.5), Banking Access ($59.7), and E-commerce Readiness ($62.5).
+ 	 o	Market Infrastructure: Digital Penetration (67.5%), Banking Access (59.7%), and E-commerce Readiness (62.5%).
 
  	 o	Regulatory Environment: Complexity level (Low, Medium, High).
 
@@ -44,34 +44,34 @@ Indonesia	   |   $99,295,038	             |     $6821.86
 # Executive Market Overview
 ![](https://github.com/Imisau/APM-Market-Expansion-Readiness-Analysis../blob/main/AMP_MEA2.png)
 
--	**Insight:** The majority of markets ($53) are currently classified as "Low Priority" for immediate launch, suggesting a selective, high-impact approach is necessary rather than a broad-market entry.
+-	**Insight:** The majority of markets (53%) are currently classified as "Low Priority" for immediate launch, suggesting a selective, high-impact approach is necessary rather than a broad-market entry.
 
 # Country Readiness & Scorecard
 ![](https://github.com/Imisau/APM-Market-Expansion-Readiness-Analysis../blob/main/AMP_MEA3.png)
 
--	**Insight:** Nigeria and Indonesia emerge as the volume leaders. Despite varying regulatory complexities, their sheer transaction volume makes them indispensable for dLocal's 2024-2025 roadmap.
+-	**Insight:** Nigeria and Indonesia emerge as the volume leaders. Despite varying regulatory complexities, their sheer transaction volume makes them indispensable for 2024-2025 roadmap.
 
 # APM Performance Analytics
 ![](https://github.com/Imisau/APM-Market-Expansion-Readiness-Analysis../blob/main/AMP_MEA1.png)
 
-- **Insight:** Bank Transfers and USSD represent the highest transaction volumes (~$397M$ combined). However, Mobile Wallets show the highest average launch costs ($\$137.6K$), requiring a more stringent ROI assessment before rollout.
+- **Insight:** Bank Transfers and USSD represent the highest transaction volumes (~$397M combined). However, Mobile Wallets show the highest average launch costs ($137.6K), requiring a more stringent ROI assessment before rollout.
 
 # Strategic Expansion Priority
 ![](https://github.com/Imisau/APM-Market-Expansion-Readiness-Analysis../blob/main/AMP_MEA1.png)
 
--	**Insight:** Markets with "Low" Regulatory Complexity and "Mature" status represent the "Quick Wins." The dashboard highlights that $26\%$ of evaluated opportunities are "High Priority," ready for immediate technical integration.
+-	**Insight:** Markets with "Low" Regulatory Complexity and "Mature" status represent the "Quick Wins." The dashboard highlights that 26% of evaluated opportunities are "High Priority," ready for immediate technical integration.
 
 # Critical Findings & Recommendations
 
 ## Key Findings:
 1.	Dominance of Traditional APMs: Bank Transfers and USSD continue to outperform QR Payments and Wallets in volume across the 8 emerging markets, signaling that dLocal should prioritize these "backbone" methods.
-2.	Regional Growth Hubs: The "West Africa" corridor (Nigeria and Ghana) shows the strongest transactional activity, representing nearly $26\%$ of the total estimated volume in the dataset.
-3.	Regulatory Hurdles: $25.7\%$ of potential market entries face "High" regulatory complexity. These should be decoupled from the immediate roadmap to allow for longer legal lead times.
+2.	Regional Growth Hubs: The "West Africa" corridor (Nigeria and Ghana) shows the strongest transactional activity, representing nearly 26% of the total estimated volume in the dataset.
+3.	Regulatory Hurdles: 25.7% of potential market entries face "High" regulatory complexity. These should be decoupled from the immediate roadmap to allow for longer legal lead times.
 
 # Recommendations:
 -	Tier-1 Prioritization: Immediate focus on "High Priority" launches in Nigeria and Indonesia, specifically targeting Bank Transfer and USSD integrations.
 -	Cost Optimization: Conduct a deep-dive into the Mobile Wallet cost structure, as it currently has the highest launch cost but the lowest transaction volume.
--	Agile Expansion: Utilize the "Launch Readiness Score" to sequence projects, starting with markets showing high Digital Penetration ($>0.70$) and Low Regulatory Complexity.
+-	Agile Expansion: Utilize the "Launch Readiness Score" to sequence projects, starting with markets showing high Digital Penetration (>0.70) and Low Regulatory Complexity.
 
 # Conclusion
 The analysis confirms that while the opportunity for APM expansion is vast, success depends on a surgical approach to market entry. By focusing on high-volume, high-readiness markets like Nigeria and Indonesia, dLocal can maximize conversion rates and simplify expansion for its global merchants effectively.
