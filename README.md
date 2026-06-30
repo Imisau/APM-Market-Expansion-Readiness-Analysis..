@@ -11,7 +11,7 @@ Expanding Alternative Payment Methods (APMs) across emerging markets requires ba
 # Methodology
 
 The analysis utilized a dataset of 10,000 market-payment combinations across 8 countries.
--	Data Source: APM_Market_Expansion_Readiness_Dataset.xlsx
+-	Data Source: AI stimulated APM_Market_Expansion_Readiness_Dataset.xlsx
 -	Tools: Power BI for visualization, SQL and Python for descriptive statistics.
 
 # Scoring Logic:
