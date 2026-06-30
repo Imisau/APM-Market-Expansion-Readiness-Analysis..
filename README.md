@@ -1,15 +1,19 @@
 # APM Market Expansion Strategy
 ![](https://github.com/Imisau/APM-Market-Expansion-Readiness-Analysis../blob/main/Thumbnail.png)
 
-# Objective
+# Introduction
 
 The goal of this project was to provide a data-backed recommendation expansion strategy into emerging markets. By analyzing Alternative Payment Methods (APMs) across diverse geographies, I aimed to identify high-growth opportunities, assess regulatory and operational risks, and prioritize product launches based on readiness scores and revenue potential.
+
+# Problem Statement
+
+Expanding Alternative Payment Methods (APMs) across emerging markets requires balancing market potential, regulatory complexity, infrastructure readiness, and launch costs. This project evaluates **8 emerging markets** to identify high-priority expansion opportunities, prioritize payment methods, and provide data-driven recommendations for an efficient, low-risk market entry strategy that maximizes transaction volume and business growth.
 
 # Methodology
 
 The analysis utilized a dataset of 10,000 market-payment combinations across 8 countries.
 -	Data Source: APM_Market_Expansion_Readiness_Dataset.xlsx
--	Tools: Power BI for visualization, Python/Excel for descriptive statistics.
+-	Tools: Power BI for visualization, SQL and Python for descriptive statistics.
 
 # Scoring Logic:
 
